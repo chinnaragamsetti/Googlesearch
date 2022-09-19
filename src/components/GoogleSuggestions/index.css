@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+/* Write your CSS here */
+.mainbg {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+.innerbg {
+  background-color: wheat;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+}
+
+.inputcontainer {
+  display: flex;
+  flex-direction: row;
+}
